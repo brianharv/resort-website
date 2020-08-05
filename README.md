@@ -15,7 +15,7 @@ _Demonstrates fundamental coding convention knowledge_
 
 ## Known Bugs
 
-_Missing CSS file_
+_Missing deployment to GitHub pages_
 
 ## Support and contact details
 
